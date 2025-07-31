@@ -19,7 +19,7 @@ title: ITポートフォリオ 2025
 - **その他**：Metasequoia（3Dモデリング）
 
 ## Projects
-- [GAS+Geminiで代表チーム情報の自動出力](projects/gas-gemini-soccer.html) — フォーム入力をトリガに、国名から代表チーム情報を自動生成し、表とサマリを出力。ランキング欠損や曖昧表記に耐えるガードレール付き。
+- [GAS+Geminiで代表チーム情報の自動出力](/gas-gemini-soccer.html) — フォーム入力をトリガに、国名から代表チーム情報を自動生成し、表とサマリを出力。ランキング欠損や曖昧表記に耐えるガードレール付き。
 
 ## Contact
 - メール：[bash11304rs@gmail.com](mailto:bash11304rs@gmail.com)
