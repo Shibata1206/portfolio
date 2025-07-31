@@ -1,6 +1,5 @@
 ---
 title: ITポートフォリオ 2025
-layout: default
 ---
 
 # 柴田 隆生 — ITポートフォリオ 2025
