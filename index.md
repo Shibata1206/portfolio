@@ -22,7 +22,9 @@ layout: default
 ## Projects
 - [GAS+Geminiで代表チーム情報の自動出力](/projects/gas-gemini-soccer.html) — フォーム入力をトリガに、国名から代表チーム情報を自動生成し、表とサマリを出力。ランキング欠損や曖昧表記に耐えるガードレール付き。
 
-> **連絡先（仮）**：メール・GitHub等は後で記入。
+## Contact
+- メール：[bash11304rs@gmail.com](mailto:bash11304rs@gmail.com)
+- GitHub：https://github.com/shibata1206
 
 ---
 
